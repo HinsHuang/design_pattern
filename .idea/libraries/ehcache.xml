@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="ehcache">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/src/lib/hibernate/ehcache.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/lib/hibernate/hibernate2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/lib/hibernate/odmg.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

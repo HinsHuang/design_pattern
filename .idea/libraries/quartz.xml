@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="quartz">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/src/lib/quartz/quartz.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,18 @@
+<component name="libraryTable">
+  <library name="activation">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/src/lib/j2ee/activation.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/lib/j2ee/ejb.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/lib/j2ee/jaxrpc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/lib/j2ee/jdbc2_0-stdext.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/lib/j2ee/jms.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/lib/j2ee/jstl.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/lib/j2ee/jta.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/lib/j2ee/mail.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/lib/j2ee/servlet.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/lib/j2ee/xml-apis.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

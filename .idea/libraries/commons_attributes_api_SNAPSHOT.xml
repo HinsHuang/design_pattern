@@ -1,0 +1,20 @@
+<component name="libraryTable">
+  <library name="commons-attributes-api-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/src/lib/jakarta-commons/commons-attributes-api-SNAPSHOT.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/lib/jakarta-commons/commons-attributes-compiler-SNAPSHOT.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/lib/jakarta-commons/commons-beanutils.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/lib/jakarta-commons/commons-collections.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/lib/jakarta-commons/commons-dbcp.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/lib/jakarta-commons/commons-digester.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/lib/jakarta-commons/commons-discovery.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/lib/jakarta-commons/commons-fileupload.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/lib/jakarta-commons/commons-lang.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/lib/jakarta-commons/commons-logging.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/lib/jakarta-commons/commons-pool.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/lib/jakarta-commons/commons-validator.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

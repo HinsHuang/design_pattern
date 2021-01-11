@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="jboss-common-jdbc-wrapper">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/src/lib/jboss/jboss-common-jdbc-wrapper.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

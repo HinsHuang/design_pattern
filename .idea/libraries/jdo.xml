@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="jdo">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/src/lib/jdo/jdo.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

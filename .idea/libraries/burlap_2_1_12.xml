@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="burlap-2.1.12">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/src/lib/caucho/burlap-2.1.12.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/lib/caucho/hessian-2.1.12.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
